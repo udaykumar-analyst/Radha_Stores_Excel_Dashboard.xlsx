@@ -130,20 +130,6 @@ Further divided into:
 
 ---
 
-## Project Files
-
-```text
-Dashboard/
-└── Radha_Stores_Dashboard.xlsx
-
-Dataset/
-└── sales_data.xlsx
-
-Images/
-└── dashboard.png
-```
-
----
 
 ## How to Use
 
@@ -168,7 +154,7 @@ Images/
 
 ## Author
 
-**YUdaykumar-analyst**
+**Udaykumar-analyst**
 
 GitHub: https://github.com/udaykumar-analyst
 
